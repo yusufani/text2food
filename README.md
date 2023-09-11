@@ -9,11 +9,12 @@ Our pipeline consist of 2 different code MMC4 and Special food collection. Run t
 
 We used [MMC4 Multimodal-C4 core fewer-faces dataset ](https://github.com/allenai/mmc4#corpus-stats-v11) to curate our final dataset. 
 
+You can reach final filtered data from [Huggingface](https://huggingface.co/datasets/tum-nlp/text2food-mmc4)
 ## Training
 The training script kohya_LoRA_dreambooth_final.py can be found under the training folder.
 
 ## Inference
-Simple run the UI ipynb file and dont forget to add your ngrok token. It will create an amazing UI, you should select your model before testing it. You can use our model `mmc4+unique-food-continued-000010.safetensors` to test it
+Simple run the UI ipynb file and dont forget to add your ngrok token. It will create an amazing UI, you should select your model before testing it. You can use our (model)[https://huggingface.co/tum-nlp/text2food] to test it
 
  **[!WARNING]**
 Due to the constrained capacity of GitLab/GitHub repositories, we have chosen not to upload the bulk of the data utilized in this project. Consequently, running the provided files may not consistently yield successful outcomes. For a comprehensive representation of our work, we have stored our complete efforts on Google Drive, accessible through the account details that have been provided to us.
