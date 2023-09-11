@@ -18,3 +18,8 @@ Simple run the UI ipynb file and dont forget to add your ngrok token. It will cr
 
  **[!WARNING]**
 Due to the constrained capacity of GitLab/GitHub repositories, we have chosen not to upload the bulk of the data utilized in this project. Consequently, running the provided files may not consistently yield successful outcomes. For a comprehensive representation of our work, we have stored our complete efforts on Google Drive, accessible through the account details that have been provided to us.
+
+## Contributors
+[Tringa Sylaj](tringasylaj@gmail.com)
+[Arda Andırın](arda.andirin@tum.d)
+[Yusuf Anı](yusufani8@gmail.com)
