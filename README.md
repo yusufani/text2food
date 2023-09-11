@@ -21,5 +21,5 @@ Due to the constrained capacity of GitLab/GitHub repositories, we have chosen no
 
 ## Contributors
 - [Tringa Sylaj](tringasylaj@gmail.com)
-- [Arda Andırın](arda.andirin@tum.d) 
+- [Arda Andırın](arda.andirin@tum.de) 
 - [Yusuf Anı](yusufani8@gmail.com)
